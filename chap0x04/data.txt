@@ -1,0 +1,505 @@
+【运动员】
+
+获得实验数据结果如下 ：
+
+
+20岁以下人数及比例: 9 1.2%
+大于30岁的人数及比例：128 17.4%
+处于20到30岁的人数及比例：600 81.4%
+
+----------------各个位置人数及百分比-----------------
+
+位置    人数    百分比
+Defender   236   32.0%
+Défenseur   1   0.1%
+Forward   135   18.3%
+Goalie   96   13.0%
+Midfielder   268   36.4%
+Position   1   0.1%
+
+----------------名字最长最短球员，年龄最大最小球员-----------------
+
+
+年龄最小的人：
+
+Fabrice Olinga
+Luke Shaw
+
+年龄最大的人：
+
+Mateo Kovacic
+Ante Rebic
+Terence Kongolo
+Memphis Depay
+Stefanos Kapino
+Alex Oxlade-Chamberlain
+Ross Barkley
+Lucas Digne
+Luis Lopez
+Sead Kolasinac
+Alireza Jahanbakhsh
+Kenneth Omeruo
+Julian Draxler
+Matthias Ginter
+DeAndre Yedlin
+
+名字最短的球员：
+
+Jô
+
+名字最短的球员：
+
+Fred
+Hulk
+Koke
+Xavi
+Beto
+Pepe
+Nani
+eder
+
+
+
+【web】
+
+---------------top100 访问次数及其来源主机ip----------------
+
+   6530         edams.ksc.nasa.gov
+   4846         piweba4y.prodigy.com
+   4791         163.206.89.4
+   4607         piweba5y.prodigy.com
+   4416         piweba3y.prodigy.com
+   3889         www-d1.proxy.aol.com
+   3534         www-b2.proxy.aol.com
+   3463         www-b3.proxy.aol.com
+   3423         www-c5.proxy.aol.com
+   3411         www-b5.proxy.aol.com
+   3407         www-c2.proxy.aol.com
+   3404         www-d2.proxy.aol.com
+   3337         www-a2.proxy.aol.com
+   3298         news.ti.com
+   3296         www-d3.proxy.aol.com
+   3293         www-b4.proxy.aol.com
+   3272         www-c3.proxy.aol.com
+   3234         www-d4.proxy.aol.com
+   3177         www-c1.proxy.aol.com
+   3134         www-c4.proxy.aol.com
+   3123         intgate.raleigh.ibm.com
+   3088         www-c6.proxy.aol.com
+   3041         www-a1.proxy.aol.com
+   3011         mpngate1.ny.us.ibm.net
+   2983         e659229.boeing.com
+   2957         piweba1y.prodigy.com
+   2906         webgate1.mot.com
+   2761         www-relay.pa-x.dec.com
+   2318         beta.xerox.com
+   2311         poppy.hensa.ac.uk
+   2237         vagrant.vf.mmc.com
+   1910         palona1.cns.hp.com
+   1793         www-proxy.crl.research.digital.com
+   1762         koriel.sun.com
+   1681         derec
+   1637         trusty.lmsc.lockheed.com
+   1623         gw2.att.com
+   1563         cliffy.lfwc.lockheed.com
+   1503         inet2.tek.com
+   1485         disarray.demon.co.uk
+   1467         gw1.att.com
+   1435         128.217.62.1
+   1395         interlock.turner.com
+   1360         163.205.1.19
+   1354         sgigate.sgi.com
+   1336         bocagate.bocaraton.ibm.com
+   1324         piweba2y.prodigy.com
+   1311         gw3.att.com
+   1310         keyhole.es.dupont.com
+   1297         n1144637.ksc.nasa.gov
+   1292         163.205.3.104
+   1256         163.205.156.16
+   1252         163.205.19.20
+   1216         erigate.ericsson.se
+   1211         gn2.getnet.com
+   1089         gwa.ericsson.com
+   1079         tiber.gsfc.nasa.gov
+   1054         128.217.62.2
+   1017         bstfirewall.bst.bls.com
+   1015         163.206.137.21
+   1013         spider.tbe.com
+   1010         gatekeeper.us.oracle.com
+    995         www-c8.proxy.aol.com
+    984         whopkins.sso.az.honeywell.com
+    966         news.dfrc.nasa.gov
+    949         128.159.122.110
+    940         proxy0.research.att.com
+    925         proxy.austin.ibm.com
+    902         www-c9.proxy.aol.com
+    901         bbuig150.unisys.com
+    899         corpgate.nt.com
+    890         sahp315.sandia.gov
+    869         amdext.amd.com
+    848         128.159.132.56
+    830         n1121796.ksc.nasa.gov
+    825         igate.uswest.com
+    819         gatekeeper.cca.rockwell.com
+    815         wwwproxy.sanders.com
+    814         gw4.att.com
+    812         goose.sms.fi
+    808         128.159.144.83
+    805         jericho3.microsoft.com
+    798         128.159.111.141
+    786         jericho2.microsoft.com
+    782         sdn_b6_f02_ip.dny.rockwell.com
+    778         lamar.d48.lilly.com
+    776         163.205.11.31
+    772         heimdallp2.compaq.com
+    771         stortek1.stortek.com
+    762         163.205.16.75
+    759         mac998.kip.apple.com
+    742         tia1.eskimo.com
+    733         www-e1f.gnn.com
+    718         www-b1.proxy.aol.com
+    715         reddragon.ksc.nasa.gov
+    711         128.159.122.137
+    701         rmcg.cts.com
+    701         bambi.te.rl.ac.uk
+    697         electron.mcc.com
+    691         163.205.23.76
+---------------top100 访问次数及其来源主机------------------
+
+   6530         edams.ksc.nasa.gov
+   4846         piweba4y.prodigy.com
+   4791         163.206.89.4
+   4607         piweba5y.prodigy.com
+   4416         piweba3y.prodigy.com
+   3889         www-d1.proxy.aol.com
+   3534         www-b2.proxy.aol.com
+   3463         www-b3.proxy.aol.com
+   3423         www-c5.proxy.aol.com
+   3411         www-b5.proxy.aol.com
+   3407         www-c2.proxy.aol.com
+   3404         www-d2.proxy.aol.com
+   3337         www-a2.proxy.aol.com
+   3298         news.ti.com
+   3296         www-d3.proxy.aol.com
+   3293         www-b4.proxy.aol.com
+   3272         www-c3.proxy.aol.com
+   3234         www-d4.proxy.aol.com
+   3177         www-c1.proxy.aol.com
+   3134         www-c4.proxy.aol.com
+   3123         intgate.raleigh.ibm.com
+   3088         www-c6.proxy.aol.com
+   3041         www-a1.proxy.aol.com
+   3011         mpngate1.ny.us.ibm.net
+   2983         e659229.boeing.com
+   2957         piweba1y.prodigy.com
+   2906         webgate1.mot.com
+   2761         www-relay.pa-x.dec.com
+   2318         beta.xerox.com
+   2311         poppy.hensa.ac.uk
+   2237         vagrant.vf.mmc.com
+   1910         palona1.cns.hp.com
+   1793         www-proxy.crl.research.digital.com
+   1762         koriel.sun.com
+   1681         derec
+   1637         trusty.lmsc.lockheed.com
+   1623         gw2.att.com
+   1563         cliffy.lfwc.lockheed.com
+   1503         inet2.tek.com
+   1485         disarray.demon.co.uk
+   1467         gw1.att.com
+   1435         128.217.62.1
+   1395         interlock.turner.com
+   1360         163.205.1.19
+   1354         sgigate.sgi.com
+   1336         bocagate.bocaraton.ibm.com
+   1324         piweba2y.prodigy.com
+   1311         gw3.att.com
+   1310         keyhole.es.dupont.com
+   1297         n1144637.ksc.nasa.gov
+   1292         163.205.3.104
+   1256         163.205.156.16
+   1252         163.205.19.20
+   1216         erigate.ericsson.se
+   1211         gn2.getnet.com
+   1089         gwa.ericsson.com
+   1079         tiber.gsfc.nasa.gov
+   1054         128.217.62.2
+   1017         bstfirewall.bst.bls.com
+   1015         163.206.137.21
+   1013         spider.tbe.com
+   1010         gatekeeper.us.oracle.com
+    995         www-c8.proxy.aol.com
+    984         whopkins.sso.az.honeywell.com
+    966         news.dfrc.nasa.gov
+    949         128.159.122.110
+    940         proxy0.research.att.com
+    925         proxy.austin.ibm.com
+    902         www-c9.proxy.aol.com
+    901         bbuig150.unisys.com
+    899         corpgate.nt.com
+    890         sahp315.sandia.gov
+    869         amdext.amd.com
+    848         128.159.132.56
+    830         n1121796.ksc.nasa.gov
+    825         igate.uswest.com
+    819         gatekeeper.cca.rockwell.com
+    815         wwwproxy.sanders.com
+    814         gw4.att.com
+    812         goose.sms.fi
+    808         128.159.144.83
+    805         jericho3.microsoft.com
+    798         128.159.111.141
+    786         jericho2.microsoft.com
+    782         sdn_b6_f02_ip.dny.rockwell.com
+    778         lamar.d48.lilly.com
+    776         163.205.11.31
+    772         heimdallp2.compaq.com
+    771         stortek1.stortek.com
+    762         163.205.16.75
+    759         mac998.kip.apple.com
+    742         tia1.eskimo.com
+    733         www-e1f.gnn.com
+    718         www-b1.proxy.aol.com
+    715         reddragon.ksc.nasa.gov
+    711         128.159.122.137
+    701         rmcg.cts.com
+    701         bambi.te.rl.ac.uk
+    697         electron.mcc.com
+    691         163.205.23.76
+
+
+---------------top100 访问次数及url------------------
+
+  96894         /images/NASA-logosmall.gif
+  67005         /images/MOSAIC-logosmall.gif
+  66618         /images/USA-logosmall.gif
+  65998         /images/WORLD-logosmall.gif
+  64009         /images/KSC-logosmall.gif
+  62370         /images/ksclogo-medium.gif
+  37826         /history/apollo/images/apollo-logo1.gif
+  35138         /images/launch-logo.gif
+  27740         /images/ksclogosmall.gif
+  24383         /shuttle/missions/sts-69/count69.gif
+  23405         /shuttle/missions/sts-69/sts-69-patch-small.gif
+  20603         /shuttle/missions/missions.html
+  19877         /images/launchmedium.gif
+  17567         /ksc.html
+  17167         /shuttle/missions/sts-69/mission-sts-69.html
+  14063         /ksc.html
+  13187         /shuttle/countdown/
+  12160         /shuttle/countdown/images/countclock.gif
+  12153         /
+  12137         /icons/menu.xbm
+  12057         /icons/blank.xbm
+  11328         /images/KSC-logosmall.gif
+  10308         /icons/image.xbm
+  10134         /history/history.html
+  10126         /history/apollo/images/footprint-logo.gif
+   9439         /history/apollo/images/apollo-small.gif
+   9230         /history/apollo/images/footprint-small.gif
+   9060         /shuttle/countdown/
+   9013         /software/winvn/winvn.gif
+   8958         /history/apollo/apollo.html
+   8643         /software/winvn/wvsmall.gif
+   8587         /software/winvn/bluemarb.gif
+   8583         /htbin/cdt_clock.pl
+   8507         /
+   8334         /htbin/cdt_main.pl
+   7389         /shuttle/resources/orbiters/orbiters-logo.gif
+   7261         /images/shuttle-patch-logo.gif
+   7163         /history/apollo/apollo-13/apollo-13.html
+   7040         /images/
+   6615         /images/kscmap-tiny.gif
+   6309         /history/apollo/apollo-13/apollo-13-patch-small.gif
+   6081         /shuttle/missions/sts-69/mission-sts-69.html
+   5613         /shuttle/missions/sts-71/sts-71-patch-small.gif
+   5471         /shuttle/countdown/video/livevideo2.gif
+   5264         /shuttle/missions/sts-69/images/images.html
+   5248         /icons/text.xbm
+   5139         /shuttle/technology/sts-newsref/stsref-toc.html
+   5093         /images/construct.gif
+   5071         /software/winvn/winvn.html
+   5039         /ksc.html
+   4952         /software/winvn/winvn.html
+   4869         /images/shuttle-patch-small.gif
+   4846         /shuttle/missions/sts-69/movies/movies.html
+   4791         /shuttle/missions/sts-70/sts-70-patch-small.gif
+   4785         /icons/unknown.xbm
+   4767         /
+   4527         /shuttle/countdown/liftoff.html
+   4464         /facilities/lc39a.html
+   4434         /shuttle/resources/orbiters/endeavour.html
+   4365         /history/apollo/images/apollo-logo.gif
+   4066         /shuttle/missions/sts-70/mission-sts-70.html
+   4024         /images/lc39a-logo.gif
+   3951         /ksc.html
+   3817         /shuttle/resources/orbiters/endeavour-logo.gif
+   3706         /shuttle/technology/sts-newsref/sts_asm.html
+   3619         /htbin/cdt_main.pl
+   3605         /
+   3599         /htbin/cdt_main.pl
+   3507         /shuttle/missions/sts-71/movies/movies.html
+   3382         /shuttle/countdown/countdown.html
+   3377         /shuttle/countdown/video/livevideo.jpeg
+   3338         /shuttle/countdown/liftoff.html
+   3110         /history/apollo/apollo-11/apollo-11.html
+   3087         /shuttle/missions/sts-70/images/images.html
+   3058         /shuttle/missions/sts-69/liftoff.html
+   2945         /shuttle/missions/sts-71/images/images.html
+   2939         /shuttle/missions/sts-73/mission-sts-73.html
+   2865         /images/faq.gif
+   2864         /shuttle/technology/images/srb_mod_compare_1-small.gif
+   2818         /shuttle/technology/images/srb_mod_compare_3-small.gif
+   2715         /shuttle/technology/images/srb_mod_compare_6-small.gif
+   2701         /history/apollo/apollo-11/apollo-11-patch-small.gif
+   2586         /elv/elvpage.htm
+   2544         /shuttle/missions/sts-73/sts-73-patch-small.gif
+   2385         /shuttle/countdown/video/sts-69-prelaunch-pad.gif
+   2293         /images/launch-small.gif
+   2256         /facilities/tour.html
+   2218         /shuttle/missions/51-l/mission-51-l.html
+   2214         /shuttle/countdown/
+   2201         /shuttle/missions/51-l/51-l-patch-small.gif
+   2172         /images/kscmap-small.gif
+   2171         /shuttle/resources/orbiters/challenger.html
+   2159         /shuttle/missions/sts-71/movies/sts-71-launch.mpg
+   2146         /shuttle/technology/sts-newsref/sts-lcc.html
+   2128         /htbin/wais.pl
+   2112         /facts/about_ksc.html
+   2107         /history/mercury/mercury.html
+   2040         /images/mercury-logo.gif
+   1991         /elv/elvhead3.gif
+   1979         /images/launchpalms-small.gif
+---------------不同响应状态码出现次数和对应百分比------------------
+
+200 1398987 89.1139%
+302 26497 1.6878%
+304 134146 8.5449%
+403 171 0.0109%
+404 10055 0.6405%
+500 3 0.0002%
+501 27 0.0017%
+---------------不同4XX状态码对应的TOP 10 URL和对应出现的总次数-------------------
+
+     32 /software/winvn/winvn.html/wvsmall.gif
+     32 /software/winvn/winvn.html/winvn.gif
+     32 /software/winvn/winvn.html/bluemarb.gif
+     12 /ksc.html/images/ksclogo-medium.gif
+     10 /ksc.html/images/WORLD-logosmall.gif
+     10 /ksc.html/images/USA-logosmall.gif
+     10 /ksc.html/images/NASA-logosmall.gif
+     10 /ksc.html/images/MOSAIC-logosmall.gif
+      5 /ksc.html/facts/about_ksc.html
+      4 /ksc.html/shuttle/missions/missions.html
+
+---------------给的URL输出TOP100主机-------------------
+
+/images/launchmedium.gif
+      2 surveyor.jf.intel.com   -       808769178       GET     /images/launchmedium.gif        200     11853
+      2 199.171.2.133   -       809275764       GET     /images/launchmedium.gif        200     0
+      1 ztm-131.dial.xs4all.nl  -       807556977       GET     /images/launchmedium.gif        200     11853
+      1 ztivax.zfe.siemens.de   -       809702085       GET     /images/launchmedium.gif        200     11853
+      1 ztivax.zfe.siemens.de   -       809682859       GET     /images/launchmedium.gif        200     11853
+      1 ztivax.zfe.siemens.de   -       809590880       GET     /images/launchmedium.gif        200     11853
+      1 ztivax.zfe.siemens.de   -       809177417       GET     /images/launchmedium.gif        200     11853
+      1 ztivax.zfe.siemens.de   -       807288926       GET     /images/launchmedium.gif        200     11853
+      1 zterm74.zlan.cvnet.com  -       808962953       GET     /images/launchmedium.gif        200     11853
+      1 zoyd.gsfc.nasa.gov      -       808501488       GET     /images/launchmedium.gif        200     11853
+      1 zow11.desy.de   -       808828922       GET     /images/launchmedium.gif        200     11853
+      1 zoso.atb.teradyne.com   -       809803658       GET     /images/launchmedium.gif        200     11853
+      1 zorba.demon.co.uk       -       808603644       GET     /images/launchmedium.gif        200     11853
+      1 zombie.esslink.com      -       808020785       GET     /images/launchmedium.gif        200     11853
+      1 zip.eit.com     -       807926378       GET     /images/launchmedium.gif        200     11853
+      1 zine3.magic.mb.ca       -       809023501       GET     /images/launchmedium.gif        200     11853
+      1 zillah.r9superb.epa.gov -       809374137       GET     /images/launchmedium.gif        200     11853
+      1 ziggy.radex.plh.af.mil  -       809898750       GET     /images/launchmedium.gif        200     11853
+      1 ziggy.radex.plh.af.mil  -       809872335       GET     /images/launchmedium.gif        200     11853
+      1 ziggy.radex.plh.af.mil  -       809817142       GET     /images/launchmedium.gif        200     11853
+      1 ziggy.radex.plh.af.mil  -       807980636       GET     /images/launchmedium.gif        200     11853
+      1 ziggy.radex.plh.af.mil  -       807552952       GET     /images/launchmedium.gif        200     11853
+      1 ziggy.lpl.arizona.edu   -       807635081       GET     /images/launchmedium.gif        200     11853
+      1 ziegler.enc.org -       808608135       GET     /images/launchmedium.gif        200     11853
+      1 zeus.towson.edu -       808442630       GET     /images/launchmedium.gif        200     11853
+      1 zeus.towson.edu -       808442291       GET     /images/launchmedium.gif        200     11853
+      1 zeus.polsl.gliwice.pl   -       807266267       GET     /images/launchmedium.gif        200     11853
+      1 zeus.inzo.co.nz -       809811115       GET     /images/launchmedium.gif        200     11853
+      1 zeus16.ccm.itesm.mx     -       808711893       GET     /images/launchmedium.gif        200     11853
+      1 zetton.chino.it.okayama-u.ac.jp -       807689643       GET     /images/launchmedium.gif        200     11853
+      1 zetor.clinet.fi -       808804433       GET     /images/launchmedium.gif        200     11853
+      1 zeta.ru.ac.za   -       808936833       GET     /images/launchmedium.gif        200     11853
+      1 zero.vpcs.doc.ca        -       807985631       GET     /images/launchmedium.gif        200     11853
+      1 zero.vpcs.doc.ca        -       807985617       GET     /images/launchmedium.gif        200     11853
+      1 zeppo.nepean.uws.edu.au -       809136601       GET     /images/launchmedium.gif        200     11853
+      1 zeppelin.mohawkc.on.ca  -       809138093       GET     /images/launchmedium.gif        200     11853
+      1 zeos12.chem.temple.edu  -       807912845       GET     /images/launchmedium.gif        200     11853
+      1 zeos10.chem.temple.edu  -       808622662       GET     /images/launchmedium.gif        200     11853
+      1 zeos10.chem.temple.edu  -       807846186       GET     /images/launchmedium.gif        200     11853
+      1 zeno.ex.ac.uk   -       809103297       GET     /images/launchmedium.gif        200     11853
+      1 zen.com -       809350753       GET     /images/launchmedium.gif        200     11853
+      1 zen.com -       808678383       GET     /images/launchmedium.gif        200     11853
+      1 zeami.ll.chiba-u.ac.jp  -       807262441       GET     /images/launchmedium.gif        200     11853
+      1 zat013.zat.kfa-juelich.de       -       809350790       GET     /images/launchmedium.gif        200     11853
+      1 zang.slip.lm.com        -       809274339       GET     /images/launchmedium.gif        200     11853
+      1 zang.slip.lm.com        -       809026984       GET     /images/launchmedium.gif        200     11853
+      1 zang.slip.lm.com        -       808660472       GET     /images/launchmedium.gif        200     11853
+      1 zang.slip.lm.com        -       808148429       GET     /images/launchmedium.gif        200     11853
+      1 zang.slip.lm.com        -       807914435       GET     /images/launchmedium.gif        200     11853
+      1 zang.slip.lm.com        -       807818764       GET     /images/launchmedium.gif        200     11853
+      1 zaki.iafrica.com        -       808735964       GET     /images/launchmedium.gif        200     11853
+      1 zahalka.vislab.su.edu.au        -       809495047       GET     /images/launchmedium.gif        200     11853
+      1 z128.euronet.nl -       809295800       GET     /images/launchmedium.gif        200     11853
+      1 z119.euronet.nl -       808523976       GET     /images/launchmedium.gif        200     11853
+      1 z117.euronet.nl -       809548609       GET     /images/launchmedium.gif        200     11853
+      1 z021.euronet.nl -       809550664       GET     /images/launchmedium.gif        200     11853
+      1 yyj-ppp-1.cyberstore.ca -       808805359       GET     /images/launchmedium.gif        200     11853
+      1 yyj-ppp-19.cyberstore.ca        -       808934681       GET     /images/launchmedium.gif        200     11853
+      1 yxes.fapeal.br  -       808175485       GET     /images/launchmedium.gif        200     11853
+      1 yvr-ppp-49.cyberstore.ca        -       808937053       GET     /images/launchmedium.gif        304     0
+      1 yvr-ppp-49.cyberstore.ca        -       808936946       GET     /images/launchmedium.gif        304     0
+      1 yvr-ppp-26.cyberstore.ca        -       808617665       GET     /images/launchmedium.gif        200     11853
+      1 yunagi.su.cit.nihon-u.ac.jp     -       807273788       GET     /images/launchmedium.gif        200     11853
+      1 yukawa.fy.chalmers.se   -       809366521       GET     /images/launchmedium.gif        200     11853
+      1 yuan.ntu.ac.sg  -       809708927       GET     /images/launchmedium.gif        200     11853
+      1 yrno.socs.uts.edu.au    -       809684319       GET     /images/launchmedium.gif        200     11853
+      1 yoshi.svh.bt.co.uk      -       809078414       GET     /images/launchmedium.gif        200     11853
+      1 yondengw.yonden.co.jp   -       808725443       GET     /images/launchmedium.gif        200     11853
+      1 yokohama112.infosphere.or.jp    -       809034227       GET     /images/launchmedium.gif        200     11853
+      1 yohnny.seanet.com       -       808465291       GET     /images/launchmedium.gif        200     11853
+      1 yoda.rsa.hisd.harris.com        -       807992039       GET     /images/launchmedium.gif        200     11853
+      1 yoda.chilepac.net       -       808786572       GET     /images/launchmedium.gif        304     0
+      1 yoda.chilepac.net       -       808690234       GET     /images/launchmedium.gif        304     0
+      1 yoda.chilepac.net       -       808597195       GET     /images/launchmedium.gif        200     11853
+      1 ymdindy2.estec.esa.nl   -       809527514       GET     /images/launchmedium.gif        200     11853
+      1 ymca3.tamu.edu  -       807744581       GET     /images/launchmedium.gif        200     11853
+      1 ylw-ppp-2.cyberstore.ca -       809238798       GET     /images/launchmedium.gif        200     11853
+      1 ylw-ppp-19.cyberstore.ca        -       809568834       GET     /images/launchmedium.gif        200     11853
+      1 yksj.york.ac.uk -       809090190       GET     /images/launchmedium.gif        200     11853
+      1 yksj.york.ac.uk -       808829167       GET     /images/launchmedium.gif        200     11853
+      1 yksj.york.ac.uk -       808829143       GET     /images/launchmedium.gif        200     11853
+      1 yksj.york.ac.uk -       807716588       GET     /images/launchmedium.gif        200     11853
+      1 yksc.york.ac.uk -       809118461       GET     /images/launchmedium.gif        200     11853
+      1 yhqfm.yokogawa.co.jp    -       809307615       GET     /images/launchmedium.gif        200     11853
+      1 yhqfm.yokogawa.co.jp    -       809079182       GET     /images/launchmedium.gif        200     11853
+      1 yhqfm.yokogawa.co.jp    -       808478180       GET     /images/launchmedium.gif        200     11853
+      1 yhm0130.bekkoame.or.jp  -       809368862       GET     /images/launchmedium.gif        200     11853
+      1 yhm0094.bekkoame.or.jp  -       808851540       GET     /images/launchmedium.gif        200     11853
+      1 yhm0091.bekkoame.or.jp  -       807954856       GET     /images/launchmedium.gif        200     11853
+      1 yhm0082.bekkoame.or.jp  -       809752452       GET     /images/launchmedium.gif        200     11853
+      1 yhm0076.bekkoame.or.jp  -       809527393       GET     /images/launchmedium.gif        200     11853
+      1 yhlmac.acd.ornl.gov     -       807551611       GET     /images/launchmedium.gif        200     11853
+      1 yeti.mdcorp.ksc.nasa.gov        -       807299324       GET     /images/launchmedium.gif        200     11853
+      1 yen.isltd.insignia.com  -       809115391       GET     /images/launchmedium.gif        200     11853
+      1 ycfont.dialup.francenet.fr      -       808511705       GET     /images/launchmedium.gif        200     11853
+      1 yarra.vicnet.net.au     -       809352442       GET     /images/launchmedium.gif        200     11853
+      1 yarmouth-ts-12.nstn.ca  -       808577709       GET     /images/launchmedium.gif        200     11853
+      1 yamamoto.stanford.edu   -       809034258       GET     /images/launchmedium.gif        200     11853
+      1 xyplex4-1-20.ucs.indiana.edu    -       808608524       GET     /images/launchmedium.gif        200     11853
+      1 xyplex4-1-17.ucs.indiana.edu    -       808672907       GET     /images/launchmedium.gif        200     11853
+
+
+
+
+
+
+
+
